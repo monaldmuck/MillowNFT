@@ -30,3 +30,4 @@ In a separate terminal execute:
 ### 7. Start frontend
 `$ npm run start`# MillowNFT
 # MillowNFT
+# MillowNFT
