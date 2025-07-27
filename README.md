@@ -1,4 +1,6 @@
-# Real Estate NFT DApp
+# 🏡 Millow — Real Estate NFT Escrow dApp
+
+**Secure, Transparent NFT Real Estate Transactions on Ethereum**
 
 ## Technology Stack & Tools
 
@@ -30,9 +32,6 @@ In a separate terminal execute:
 ### 7. Start frontend
 `$ npm run start`# MillowNFT
 # MillowNFT
-# 🏡 Millow — Real Estate NFT Escrow dApp
-
-**Secure, Transparent NFT Real Estate Transactions on Ethereum**
 
 ---
 
@@ -60,7 +59,6 @@ Buyers and sellers can mint, list, inspect, and securely trade unique Real Estat
 
 - **Seamless React Frontend**  
   User-friendly interface built with React and ethers.js for wallet integration.
-
 
 ---
 
